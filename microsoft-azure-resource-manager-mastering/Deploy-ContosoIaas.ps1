@@ -1,6 +1,6 @@
 ﻿### Define Deployment Variables
 {
-$location = 'Australia Southeast'
+$location = 'West Europe'
 $resourceGroupName = 'contoso-iaas'
 $resourceDeploymentName = 'contoso-iaas-deployment'
 $templatePath = $env:SystemDrive + '\' + 'pluralsight'
